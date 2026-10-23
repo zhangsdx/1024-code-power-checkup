@@ -53,8 +53,8 @@ WorkBuddy「1024 造物挑战」程序员节应用创作大赛参赛作品。
 ### 本地运行
 
 ```bash
-git clone <this-repo>
-cd <repo>
+git clone https://github.com/zhangsdx/1024-code-power-checkup.git
+cd 1024-code-power-checkup
 # 直接双击 index.html，或起一个静态服务：
 npx serve .
 ```
@@ -80,3 +80,7 @@ Chrome / Edge / Safari / Firefox 近两年版本均可（用到 `clamp()`、`asp
 仓库：[zhangsdx/1024-code-power-checkup](https://github.com/zhangsdx/1024-code-power-checkup)
 
 如果这个作品让你想去测一次，欢迎点个 Star。
+
+## License
+
+[MIT](LICENSE) © 2026 zhangsdx
