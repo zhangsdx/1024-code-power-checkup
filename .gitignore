@@ -1,0 +1,14 @@
+# 依赖与构建产物（本项目其实不需要）
+node_modules/
+dist/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 调试产物
+_dev/
+*.log
